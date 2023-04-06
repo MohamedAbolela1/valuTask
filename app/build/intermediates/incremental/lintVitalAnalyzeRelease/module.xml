@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app"
+    name=":app"
+    type="APP"
+    maven="Sample Arch:app:"
+    gradle="7.0.4"
+    buildFolder="build"
+    bootClassPath="/Users/mohamedabolela/Library/Android/sdk/platforms/android-31/android.jar:/Users/mohamedabolela/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

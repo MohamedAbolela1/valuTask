@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/layout_progress_main.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/src/main/res/layout/layout_progress_main.xml"
+    },
+    {
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/layout_progress_hover.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/src/main/res/layout/layout_progress_hover.xml"
+    },
+    {
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/layout_progress_home.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/src/main/res/layout/layout_progress_home.xml"
+    },
+    {
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/layout_main_error.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/Sample_Arch/app/src/main/res/layout/layout_main_error.xml"
+    }
+]
