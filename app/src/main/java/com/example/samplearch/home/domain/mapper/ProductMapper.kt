@@ -2,9 +2,6 @@ package com.example.samplearch.home.domain.mapper
 
 import com.example.samplearch.home.data.model.ProductResponse
 import com.example.samplearch.home.domain.model.Product
-import com.example.samplearch.model.StringModel
-import com.example.samplearch.utils.ui.DateFormat
-import com.example.samplearch.utils.ui.getValidText
 
 
 fun MutableList<ProductResponse>.toProductList(): MutableList<Product> {
